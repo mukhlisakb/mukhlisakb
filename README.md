@@ -11,8 +11,6 @@
 ## ⚙ Latest Projects
 | **Project**                         | **Tools** |
 |-------------------------------------|-----------|
-| <a href="https://github.com/farizfadila/analisis_covid19" target="_blank">Analisis Data COVID 19 di Indonesia | R         |
-| <a href="https://github.com/farizfadila/DQLAB/blob/516147c2e7ec1c258a51165c059819838f3c8a1c/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/sales_performance_report.sql" target="_blank">Sales Performance Report</a>            | SQL       |
 |<a href="https://glam.openstreetmap.or.id" target="_blank" > WebGIS Glam | Javascript |
 |<a href="https://s2cities.openstreetmap.or.id" target="_blank" > WebGIS S2cities | Javascript |
 
