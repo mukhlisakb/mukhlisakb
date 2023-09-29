@@ -1,46 +1,39 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.linkedin.com/in/mukhlisakb/)
-<h1 align="center">Hi 👋, I'm Mukhlis Akbar</h1>
-<h3 align="center">A passionate Spatial Data Scientist and Data Analyst with a Geography background.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## Mukhlis Akbar
 
-- 👀 I’m interested in Spatial Data Science, Data Analyst, Data Visualization and enjoy exploring everything about data.
-- :trophy: I have completed <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8ZJWUB42PMFU" target="_blank">Google Data Analytics Professional Certificate</a>.
-- :trophy: I'm Graduated from <a href="https://drive.google.com/file/d/1A9oEa5qmapZ04aIWQ-Dku4ntOYh_0mCg/view?usp=drive_link" target="_blank">Digital Talent Scholarship 2023 Program specializing in Data Analytics</a>.
-- :book: I'm currently learning about Data Analytics and Data Science.
+[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/mukhlisakb?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/mukhlisakb)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/mukhlisakb)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
+[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/mukhlisakb)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mukhlisakb.mukhlisakb)
 
-## ⚙ Latest Projects
-| **Project**                         | **Tools** |
-|-------------------------------------|-----------|
-|<a href="https://glam.openstreetmap.or.id" target="_blank" > WebGIS Glam | Javascript |
-|<a href="https://s2cities.openstreetmap.or.id" target="_blank" > WebGIS S2cities | Javascript |
+Mukhlis Akbar is a data practitioner interested in data science and spatial data science. He specializes in geospatial data science and open summer software development. Mukhlis utilizes geospatial data to study environmental, disaster, and social change. He is currently working as a GIS and Data Specialist at OpenStreetMap Indonesia.
 
-## 🔍 You Can Find Me at
-<p>
-  <a href="https://www.linkedin.com/in/mukhlisakb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://www.instagram.com/mukhlisakb/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-  <a href="https://public.tableau.com/app/profile/mukhlisakb" target="_blank"><img alt="Tableau Public" src="https://img.shields.io/badge/tableau-%23E4405F.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=blue" /></a>  
-</p>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukhlisakb&label=Profile%20views&color=0e75b6&style=flat" alt="mukhlisakb" /> </p>
+### Open-source Projects
 
-## Languages and Tools
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R Programming" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Linux:** [manjaro-linux](https://github.com/giswqs/manjaro-linux)
+- **R packages:** [whiteboxR](https://github.com/giswqs/whiteboxR)
+- **Python packages:** [geemap](https://github.com/giswqs/geemap) | [leafmap](https://github.com/giswqs/leafmap) | [eefolium](https://github.com/giswqs/eefolium) | [geehydro](https://github.com/giswqs/geehydro) | [lidar](https://github.com/giswqs/lidar) | [whitebox](https://github.com/giswqs/whitebox) | [whiteboxgui](https://github.com/giswqs/whiteboxgui) | [geospatial](https://github.com/giswqs/geospatial) | [pygis](https://github.com/giswqs/pygis) | [pypackage](https://github.com/giswqs/pypackage)
+- **ArcGIS Toolboxes:** [WhiteboxTools-ArcGIS](https://github.com/giswqs/WhiteboxTools-ArcGIS) | [Depression Analysis Toolbox](https://github.com/giswqs/Depression-Analysis-Toolbox) | [Wetland Hydrology Analyst](https://github.com/giswqs/Wetland-Hydrology-Analyst-Toolbox)
+- **Google Earth Engine:** [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) | [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks) | [qgis-earthengine-examples](https://github.com/giswqs/qgis-earthengine-examples) | [earthengine-apps](https://github.com/giswqs/earthengine-apps)
 
-## :chart_with_upwards_trend: GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhlisakb&show_icons=true&theme=radical)
+---
 
-## :computer: Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhlisakb&theme=radical)
+### Latest Blog Posts
+
+<!-- HASHNODE:START -->
+- [Visualizing satellite image time series interactively](https://blog.gishub.org/visualizing-satellite-image-time-series-interactively)
+- [Segment-geospatial presentation at SERVIR](https://blog.gishub.org/segment-geospatial-presentation-at-servir)
+- [Segmenting remote sensing imagery with box prompts](https://blog.gishub.org/segmenting-remote-sensing-imagery-with-box-prompts)
+- [New book release: Earth Engine and Geemap](https://blog.gishub.org/new-book-release-earth-engine-and-geemap)
+- [Creating satellite timelapse with Streamlit and Earth Engine](https://blog.gishub.org/creating-satellite-timelapse-with-streamlit-and-earth-engine)
+<!-- HASHNODE:END -->
+
+---
+
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mukhlisakb&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mukhlisakb&langs_count=3&hide=javascript,go,html,css,tex)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhlisakb&hide_langs_below=10) -->
