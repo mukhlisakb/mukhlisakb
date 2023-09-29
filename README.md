@@ -6,7 +6,7 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/mukhlisakb)
 
-Mukhlis Akbar is a data practitioner interested in data science and spatial data science. He specializes in geospatial data science and open summer software development. Mukhlis utilizes geospatial data to study environmental, disaster, and social change. He is currently working as a GIS and Data Specialist at OpenStreetMap Indonesia.
+Mukhlis Akbar is a data practitioner interested in data science and spatial data science. He specializes in geospatial data science and open sources software development. Mukhlis utilizes geospatial data to study environmental, disaster, and social change. He is currently working as a GIS and Data Specialist at OpenStreetMap Indonesia.
 
 ---
 
