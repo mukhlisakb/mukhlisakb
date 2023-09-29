@@ -1,6 +1,6 @@
 ## Mukhlis Akbar
 
-[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/mukhlisakb?tab=followers)
+[![GitHub Badge](https://img.shields.io/github/followers/mukhlisakb?style=social)](https://github.com/mukhlisakb?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/mukhlisakb?style=social)](https://twitter.com/mukhlisakb)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/mukhlisakb)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
