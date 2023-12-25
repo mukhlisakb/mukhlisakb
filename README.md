@@ -14,7 +14,8 @@ Mukhlis Akbar is a data practitioner interested in data science and spatial data
 
 - **WebGIS S2Cities:** [s2cities-wri](https://s2cities.openstreetmap.or.id/)
 - **WebGIS GLAM Mapping:** [glam-mapping](https://glam.openstreetmap.or.id/)
-- **Tableau Visualization Data:** [Tableau](https://github.com/giswqs/whiteboxR)
+- **Tableau Visualization Data:** [Tableau](https://public.tableau.com/app/profile/openstreetmap.indonesia/viz/POIDashboard/Dashboard1?publish=yes)
+- **Streamlit Dashboard:** [Streamlit](https://customer-data-analytics-mukhlis.streamlit.app/)
 - **Machine Learning Spatial Building:** **Under Building**
 ---
 
