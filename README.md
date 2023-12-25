@@ -17,17 +17,6 @@ Mukhlis Akbar is a data practitioner interested in data science and spatial data
 - **Tableau Visualization Data:** [Tableau](https://public.tableau.com/app/profile/openstreetmap.indonesia/viz/POIDashboard/Dashboard1?publish=yes)
 - **Streamlit Dashboard:** [Streamlit](https://customer-data-analytics-mukhlis.streamlit.app/)
 - **Machine Learning Spatial Building:** **Under Building**
----
-
-### Research Blog Posts
-
-<!-- HASHNODE:START -->
-- [Visualizing satellite image time series interactively](https://blog.gishub.org/visualizing-satellite-image-time-series-interactively)
-- [Segment-geospatial presentation at SERVIR](https://blog.gishub.org/segment-geospatial-presentation-at-servir)
-- [Segmenting remote sensing imagery with box prompts](https://blog.gishub.org/segmenting-remote-sensing-imagery-with-box-prompts)
-- [New book release: Earth Engine and Geemap](https://blog.gishub.org/new-book-release-earth-engine-and-geemap)
-- [Creating satellite timelapse with Streamlit and Earth Engine](https://blog.gishub.org/creating-satellite-timelapse-with-streamlit-and-earth-engine)
-<!-- HASHNODE:END -->
 
 ---
 
