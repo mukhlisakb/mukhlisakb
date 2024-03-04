@@ -3,8 +3,6 @@
 [![GitHub Badge](https://img.shields.io/github/followers/mukhlisakb?style=social)](https://github.com/mukhlisakb?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/mukhlisakb?style=social)](https://twitter.com/mukhlisakb)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/mukhlisakb)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://arcgis.me/cv/)
-[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/mukhlisakb)
 
 Mukhlis Akbar is a data practitioner interested in data science and spatial data science. He specializes in geospatial data science and open sources software development. Mukhlis utilizes geospatial data to study environmental, disaster, and social change. He is currently working as a GIS and Data Specialist at OpenStreetMap Indonesia.
 
