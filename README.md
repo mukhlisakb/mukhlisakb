@@ -19,6 +19,6 @@ Mukhlis Akbar is a data practitioner interested in data science and spatial data
 ---
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mukhlisakb&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mukhlisakb&langs_count=3&hide=javascript,html,css,tex,JupyterNotebook)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mukhlisakb&langs_count=3&hide=javascript,html,css,tex,Jupyter-Notebook)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhlisakb&hide_langs_below=10) -->
