@@ -27,6 +27,15 @@
 - Design Pattern & Clean Code
 ---
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/mukhlisakb">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mukhlisakb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mukhlisakb&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
 ### Open-source Projects
 
 - **WebGIS S2Cities:** [s2cities-wri](https://s2cities.openstreetmap.or.id/)
