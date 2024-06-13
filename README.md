@@ -10,7 +10,7 @@
 ### 🤵 About Me
 
 - 🔭 I’m currently working for a Non Profit Organization that name is **Perkumpulan OpenStreetMap Indonesia** based in Indonesia as GIS & Data Technical Specialist. Where i make Analysis Spatial, and WebGIS applications & Services primarily using JavaScripts, LeafletJS, GeoServer, and PostgreSQL
-- 🤔 I use daily .go, .py, .js, .sh
+- 🤔 I use daily .go, .py, .js, .ts, .swift .sh
 - 🌱 I’m currently learning **Backend Technologies** and **DevOps Technologies including Cloud Computing**
 - 💬 Let's talk about music, cat, tech, and other stuff just what you want
 - 😄 Pronouns: He/Him
@@ -18,8 +18,8 @@
 
 ### 🛠 Tech Stack
 - Javascript/Typescript : Node.js & Express.js
-- Golang : gRPC, Gin, & Echo
-- Frontend Side : HTML, CSS, Bootstrap, Tailwind & Vue.js
+- Golang : Gin, & Echo
+- Frontend Side : HTML, CSS, Bootstrap, Tailwind 
 - Database : SQL Server, MySQL & PostgreSQL
 - Infra : GCP, AWS, & Linux
 - Tools : Neovim, Postman, Git, QGIS, Docker, Jenkins, Ansible, K8s, Spotify etc
