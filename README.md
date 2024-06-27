@@ -17,7 +17,7 @@
 - 👯 We can connect to play some games like Monster Hunters maybe
 
 ### 🛠 Tech Stack
-- Javascript/Typescript : Node.js & Express.js
+- Javascript/Typescript : Node.js, Express.js, React.js, & Next.js
 - Golang : Gin, & Echo
 - Frontend Side : HTML, CSS, Bootstrap, Tailwind 
 - Database : SQL Server, MySQL & PostgreSQL
