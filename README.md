@@ -29,6 +29,8 @@
 - Design Pattern & Clean Code
 ---
 
+
+<!--
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/mukhlisakb">
