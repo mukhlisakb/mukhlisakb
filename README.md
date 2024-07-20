@@ -28,7 +28,7 @@
 - Dive deeper learn Golang, Swift, Dart, and Rust, Mobile Development and Backend Development more advance
 - Design Pattern & Clean Code
 ---
-<!--
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/mukhlisakb">
@@ -38,7 +38,7 @@
 </p>
 
 ---
--->
+<!--
 ### Open-source Projects
 
 - **WebGIS S2Cities:** [s2cities-wri](https://s2cities.openstreetmap.or.id/)
