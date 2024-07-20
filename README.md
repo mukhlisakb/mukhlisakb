@@ -8,24 +8,24 @@
 ---
 
 ### 🤵 About Me
-
-- 🔭 I’m currently working for a Non Profit Organization that name is **Perkumpulan OpenStreetMap Indonesia** based in Indonesia as GIS & Data Technical Specialist. Where i make Analysis Spatial, and WebGIS applications & Services primarily using JavaScripts, LeafletJS, GeoServer, and PostgreSQL
-- 🤔 I use daily .go, .py, .js, .ts, .swift .sh
-- 🌱 I’m currently learning **Backend Technologies** and **DevOps Technologies including Cloud Computing**
+- 🤔 I use daily .go, .js, .ts, .swift , .dart, .sh
+- 🌱 I’m currently learning **Backend Technologies** and **Mobile Development**
 - 💬 Let's talk about music, cat, tech, and other stuff just what you want
 - 😄 Pronouns: He/Him
 - 👯 We can connect to play some games like Monster Hunters maybe
 
 ### 🛠 Tech Stack
 - Javascript/Typescript : Node.js, Express.js, React.js, & Next.js
+- iOS Dev : UIKit, MapKit, SwiftUI, CocoaPods
+- MultiPlatform : Flutter
 - Golang : Gin, & Echo
 - Frontend Side : HTML, CSS, Bootstrap, Tailwind 
-- Database : SQL Server, MySQL & PostgreSQL
+- Database : MySQL & PostgreSQL
 - Infra : GCP, AWS, & Linux
-- Tools : Neovim, Postman, Git, QGIS, Docker, Jenkins, Ansible, K8s, Spotify etc
+- Tools : Neovim, Postman, Git, QGIS, Docker, Jenkins, Ansible, K8s, Xcode etc
 
 ### 📖 Currently Learning
-- Dive deeper learn Golang, and Rust, Backend Development more advance & DevOps
+- Dive deeper learn Golang, Swift, Dart, and Rust, Mobile Development and Backend Development more advance
 - Design Pattern & Clean Code
 ---
 <!--
