@@ -19,8 +19,7 @@
 - MultiPlatform : Flutter
 - Golang : Gin, & Echo
 - Frontend Side : HTML, CSS, Bootstrap, Tailwind 
-- Database : MySQL & PostgreSQL
-- Infra : GCP, AWS, & Linux
+- Database : MySQL, PostgreSQL, Redis
 - Tools : Neovim, Postman, Git, QGIS, Docker, Jenkins, Ansible, K8s, Xcode etc
 
 ### 📖 Currently Learning
