@@ -8,4 +8,4 @@
 <br>
 <br>
 
-[![Linkedin](https://veroanggra.github.io/linkedin.svg)](https://www.linkedin.com/in/mukhlisakb/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/mukhlisakb/)
