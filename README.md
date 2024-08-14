@@ -1,4 +1,4 @@
-## 🦫: Halo Mukhlis Here!
+## 🦫 Halo Mukhlis Here!
 
 - 💻 Currently, an **Android, iOS** learner and **Flutter** Enthusiast
 - 💬 Let's talk about music, cat, tech, and other stuff just what you want
