@@ -6,6 +6,5 @@
 - 📫 Reach me: twitter [@mukhlisakb](https://twitter.com/mukhlisakb)
   
 <br>
-<br>
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/mukhlisakb/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mukhlisakb/)
