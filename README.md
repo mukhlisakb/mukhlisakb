@@ -1,9 +1,14 @@
-## 🦫 Halo Mukhlis Here!
+## 🤖 Hi, I'm Mukhlis!
 
-- 💻 Currently, an **AI Engineer**
-- 💬 Let's talk about music, cat, tech, and other stuff just what you want
-- 👯 We can connect to play some games like Monster Hunters maybe
-  
-<br>
+**AI Engineer in Training** | Building the future with intelligent systems
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mukhlisakb/)
+### 🛠️ Tech Stack
+```
+Go • Kotlin • Python • TypeScript
+```
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukhlisakb/)
+
+---
+*"Learning today, innovating tomorrow"*
