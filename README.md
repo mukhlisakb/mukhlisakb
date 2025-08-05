@@ -1,10 +1,10 @@
-## 🤖 Hi, I'm Mukhlis!
+## 🤖 Hi, I'm Akbar!
 
 **AI Engineer in Training** | Building the future with intelligent systems
 
 ### 🛠️ Tech Stack
 ```
-Go • Kotlin • Python • TypeScript
+Go • Rust • Kotlin • Python • TypeScript
 ```
 
 ### 📫 Let's Connect
