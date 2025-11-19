@@ -13,7 +13,7 @@ Go • Rust • Kotlin • Python • TypeScript
 ---
 *"Learning today, innovating tomorrow"*
 
-## Statistics
+<!--## Statistics
 
 <!-- <div>
   <a href="https://github.com/theodorusclarence?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=mukhlisakb&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
