@@ -15,7 +15,7 @@ Go • Rust • Kotlin • Python • TypeScript
 
 ## Statistics
 
-<div>
+<!-- <div>
   <a href="https://github.com/theodorusclarence?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=mukhlisakb&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhlisakb&layout=compact&theme=react&hide=php&langs_count=6" />
-</div>
+</div> -->
