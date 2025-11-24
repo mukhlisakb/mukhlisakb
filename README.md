@@ -3,9 +3,51 @@
 **AI Engineer in Training** | Building the future with intelligent systems
 
 ### 🛠️ Tech Stack
-```
-Go • Rust • Kotlin • Python • TypeScript
-```
+<table>
+  <tr>
+    <td align="center" width="120">
+        <img src="./img/rust.png" width="120" title="IBM" alt="IBM"/>
+        Rust
+    </td>
+    <td align="center" width="92">
+        <img src="./img/ts.png" width="92" title="IBM" alt="IBM"/>
+        Typescript
+    </td>
+    <td align="center" width="92">
+        <img src="./img/js.png" width="92" title="IBM" alt="IBM"/>
+        Javascript
+    </td>
+    <td align="center" width="92">
+        <img src="./img/php.png" width="92" title="IBM" alt="IBM"/>
+        PHP
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="92">
+        <img src="./img/kotlin.png" width="72" title="IBM" alt="IBM"/>
+        Kotlin
+    </td>
+    <td align="center" width="92">
+        <img src="./img/cpp.png" width="92" title="IBM" alt="IBM"/>
+        C++
+    </td>
+    <td align="center" width="92">
+        <img src="./img/go.png" width="92" title="IBM" alt="IBM"/>
+        Go-Lang
+    </td>
+    <td align="center" width="92">
+        <img src="./img/dart.png" width="92" title="IBM" alt="IBM"/>
+        Dart
+    </td>
+  </tr>
+    <tr>
+        <td align="center" width="92">
+        <img src="./img/swift.webp" width="72" title="IBM" alt="IBM"/>
+        Swift
+        </td>
+    </tr>
+</table>
+
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukhlisakb/)
