@@ -3,9 +3,15 @@
 
 ---
 
-## 🤖 Hi, I'm Akbar!
+## Hola!
+Hi, I'm **Mukhlis Akbar** a developer with a strong background in GIS and software engineering.
 
-**AI Engineer in Training** | Building the future with intelligent systems
+I'm currently focusing on Artificial Intelligence and Cybersecurity, while actively exploring modern technologies such as Golang, Rust, Python, and Kotlin.
+
+</br>
+</br>
+</br>
+</br>
 
 ### 🛠️ Tech Stack
 <table>
