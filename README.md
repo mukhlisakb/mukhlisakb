@@ -2,9 +2,9 @@
 <!-- <img style="height:100%; width: 100%;" src="https://github.com/mukhlisakb/mukhlisakb/blob/main/img/cyber_punk_text.gif" align="center"/> -->
 
 ---
-<a href="#">
+<!-- <a href="#">
     <img src="./img/developer.webp" align="right" width="256" title="OPSWAT" alt="OPSWAT"/>
-</a>
+</a> -->
 
 ## Hola!
 Hi, I'm **Mukhlis Akbar** a developer with a strong background in GIS and software engineering.
@@ -15,10 +15,7 @@ I'm currently focusing on Artificial Intelligence and Cybersecurity, while activ
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
+
 
 ---
 
