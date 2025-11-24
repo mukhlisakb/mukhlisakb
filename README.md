@@ -12,8 +12,11 @@ I'm currently focusing on Artificial Intelligence and Cybersecurity, while activ
 </br>
 </br>
 </br>
+---
 
 ### 🛠️ Tech Stack
+---
+
 <table>
   <tr>
     <td align="center" width="120">
@@ -51,6 +54,9 @@ I'm currently focusing on Artificial Intelligence and Cybersecurity, while activ
     </tr>
 </table>
 
+</br>
+</br>
+</br>
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukhlisakb/)
