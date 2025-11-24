@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/zonblade/zonblade/refs/heads/main/img/frieren-1.gif" align="center" width="100%" title="OPSWAT" alt="OPSWAT"/></br>
+<img src="https://github.com/mukhlisakb/mukhlisakb/blob/main/img/cyberfunk.gif" align="center" width="100%" title="OPSWAT" alt="OPSWAT"/></br>
 
 ## 🤖 Hi, I'm Akbar!
 
