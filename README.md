@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/zonblade/zonblade/refs/heads/main/img/frieren-1.gif" align="center" width="100%" title="OPSWAT" alt="OPSWAT"/></br>
+
 ## 🤖 Hi, I'm Akbar!
 
 **AI Engineer in Training** | Building the future with intelligent systems
