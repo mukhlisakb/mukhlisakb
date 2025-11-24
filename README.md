@@ -11,12 +11,6 @@ Hi, I'm **Mukhlis Akbar** a developer with a strong background in GIS and softwa
 
 I'm currently focusing on Artificial Intelligence and Cybersecurity, while actively exploring modern technologies such as Golang, Rust, Python, and Kotlin.
 
-</br>
-</br>
-</br>
-</br>
-
-
 ---
 
 ### Favourite Language
