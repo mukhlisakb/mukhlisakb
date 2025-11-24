@@ -6,7 +6,7 @@
     <img src="./img/developer.webp" align="right" width="256" title="OPSWAT" alt="OPSWAT"/>
 </a> -->
 
-## Hola!
+### Hola!
 Hi, I'm **Mukhlis Akbar** a developer with a strong background in GIS and software engineering.
 
 I'm currently focusing on Artificial Intelligence and Cybersecurity, while actively exploring modern technologies such as Golang, Rust, Python, and Kotlin.
@@ -19,7 +19,7 @@ I'm currently focusing on Artificial Intelligence and Cybersecurity, while activ
 
 ---
 
-## Favourite Language
+### Favourite Language
 --- 
 > yo, here are my favourite language (most favourite is from left)
 
