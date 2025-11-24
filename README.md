@@ -12,10 +12,12 @@ I'm currently focusing on Artificial Intelligence and Cybersecurity, while activ
 </br>
 </br>
 </br>
+
 ---
 
-### 🛠️ Tech Stack
----
+## Favourite Language
+--- 
+> yo, here are my favourite language (most favourite is from left)
 
 <table>
   <tr>
