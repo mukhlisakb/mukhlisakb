@@ -17,19 +17,11 @@
         <img src="./img/js.png" width="92" title="IBM" alt="IBM"/>
         Javascript
     </td>
-    <td align="center" width="92">
-        <img src="./img/php.png" width="92" title="IBM" alt="IBM"/>
-        PHP
-    </td>
   </tr>
     <tr>
     <td align="center" width="92">
         <img src="./img/kotlin.png" width="72" title="IBM" alt="IBM"/>
         Kotlin
-    </td>
-    <td align="center" width="92">
-        <img src="./img/cpp.png" width="92" title="IBM" alt="IBM"/>
-        C++
     </td>
     <td align="center" width="92">
         <img src="./img/go.png" width="92" title="IBM" alt="IBM"/>
