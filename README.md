@@ -1,11 +1,3 @@
-<img src="https://github.com/mukhlisakb/mukhlisakb/blob/main/img/cyberfunk.gif" align="center" width="100%" title="OPSWAT" alt="OPSWAT"/></br>
-<!-- <img style="height:100%; width: 100%;" src="https://github.com/mukhlisakb/mukhlisakb/blob/main/img/cyber_punk_text.gif" align="center"/> -->
-
----
-<!-- <a href="#">
-    <img src="./img/developer.webp" align="right" width="256" title="OPSWAT" alt="OPSWAT"/>
-</a> -->
-
 ### Hola!
 Hi, I'm **Mukhlis Akbar** a developer with a strong background in GIS and software engineering.
 
@@ -64,9 +56,9 @@ I'm currently focusing on Artificial Intelligence and Cybersecurity, while activ
 ---
 *"Learning today, innovating tomorrow"*
 
-<!--## Statistics
+## Statistics
 
-<!-- <div>
+<div>
   <a href="https://github.com/theodorusclarence?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=mukhlisakb&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhlisakb&layout=compact&theme=react&hide=php&langs_count=6" />
-</div> -->
+</div>
