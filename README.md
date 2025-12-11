@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>⚡ Software Engineer </h2>
-  <p>Infrastructure System Engineer | Cloud & Backend Specialist</p>
+  <p>Infrastructure System Engineer | Mobile & Backend Specialist </p>
   <p>📍 Indonesia </p>
   
   [![Website](https://img.shields.io/badge/Website-mukhlis.tech-blue?style=for-the-badge&logo=chrome&logoColor=white)](https://mukhlis.tech/)
@@ -23,6 +23,68 @@ Experienced in managing development infrastructure with **Docker**, configuring 
 Strong communicator with the ability to work across cross-functional teams, focused on problem-solving, efficiency, and delivering precise and measurable results. Bringing a balanced combination of technical expertise and project management capability.
 
 ### 🔧 Tech Stack
+
+**Backend & Programming:**
+
+- 🦀 **Rust** - Primary backend development
+- 🐍 **Python** - Automation and scripting
+- 🐹 **Golang** - API development
+- � **Bash Scripting** - Automation and DevOps
+
+**Cloud & Infrastructure:**
+
+- ☁️ **Cloud Infrastructure** - AWS, GCP migration expertise
+- ⎈ **Kubernetes** - Container orchestration and management
+- � **Docker** - Containerization and deployment
+
+**DevOps & Monitoring:**
+
+- 📊 **Grafana** - System monitoring and visualization
+- 🔍 **Prometheus** - Metrics collection and alerting
+- 🔄 **GitLab CI/CD** - Continuous integration and deployment
+
+**Frontend & Mobile:**
+
+- ⚛️ React / Next.js
+- 🌟 Swift / Kotlin / Flutter
+- � TypeScript
+- 🎨 Tailwind CSS
+
+**Databases & Storage:**
+- 🐘 PostgreSQL
+
+## 💻 Current Focus
+
+<div align="center">
+  
+**Building modern web applications | DevOps & Backend Engineering**
+
+🚀 Always learning • 🔗 Creating useful tools • 🌟 Sharing knowledge
+🏗️ System Architecture • ☁️ Cloud Infrastructure • ⎈ Kubernetes • 🔧 Automation
+
+</div>
+
+---
+
+## 📬 Get In Touch
+
+I'm always interested in new opportunities and collaborations. Feel free to reach out!
+
+- 🌐 **Website**: [mukhlis.tech](https://mukhlis.tech)
+- 📧 **Email**: [mukhlisakb@gmail.com](mailto:mukhlisakb@gmail.com)
+- 💼 **LinkedIn**: [mukhlisakb/li](https://www.linkedin.com/in/mukhlisakb/)
+
+---
+
+<div align="center">
+  
+**"Code is poetry written in logic"** ✨
+
+_Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to get in touch._
+
+</div>
+
+---
  
 <h3 align="left">My Statistics</h3>
 
