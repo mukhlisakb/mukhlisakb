@@ -57,10 +57,10 @@ Strong communicator with the ability to work across cross-functional teams, focu
 
 <div align="center">
   
-**Building modern web applications | DevOps & Backend Engineering**
+**Building modern web applications | System, GIS Dev & Backend Engineering**
 
 🚀 Always learning • 🔗 Creating useful tools • 🌟 Sharing knowledge
-🏗️ System Architecture • ☁️ Cloud Infrastructure • ⎈ Kubernetes • 🔧 Automation
+🏗️ System Architecture • ☁️ Cloud Infrastructure • ⎈ GIS Development • 🔧 Automation
 
 </div>
 
@@ -72,7 +72,7 @@ I'm always interested in new opportunities and collaborations. Feel free to reac
 
 - 🌐 **Website**: [mukhlis.tech](https://mukhlis.tech)
 - 📧 **Email**: [mukhlisakb@gmail.com](mailto:mukhlisakb@gmail.com)
-- 💼 **LinkedIn**: [mukhlisakb/li](https://www.linkedin.com/in/mukhlisakb/)
+- 💼 **LinkedIn**: [mukhlisakb/mukhlisakb](https://www.linkedin.com/in/mukhlisakb/)
 
 ---
 
