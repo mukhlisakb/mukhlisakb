@@ -99,4 +99,5 @@ _Thanks for visiting my profile! Feel free to explore my repositories and don't 
     src="https://github-readme-streak-stats-ainunns.vercel.app/?user=mukhlisakb&theme=tokyonight"
     alt="mukhlisakb"
   />
+   <a href="https://wakatime.com/@mukhlisakb"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=mukhlisakb&layout=compact&theme=react&langs_count=6" /></a>
 </div>
