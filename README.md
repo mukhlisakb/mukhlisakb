@@ -46,16 +46,6 @@ I'm always interested in new opportunities and collaborations. Feel free to reac
 - 💼 **LinkedIn**: [mukhlisakb/mukhlisakb](https://www.linkedin.com/in/mukhlisakb/)
 
 ---
-
-<div align="center">
-  
-**"Code is poetry written in logic"** ✨
-
-_Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to get in touch._
-
-</div>
-
----
  
 <h3 align="left">My Statistics</h3>
 
