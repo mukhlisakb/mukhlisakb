@@ -22,38 +22,7 @@ Experienced in managing development infrastructure with **Docker**, configuring 
 
 Strong communicator with the ability to work across cross-functional teams, focused on problem-solving, efficiency, and delivering precise and measurable results. Bringing a balanced combination of technical expertise and project management capability.
 
-### 🔧 Tech Stack
-
-**Backend & Programming:**
-
-- 🦀 **Rust** - Primary backend development
-- 🐍 **Python** - Automation and scripting
-- 🐹 **Golang** - API development
-- � **Bash Scripting** - Automation and DevOps
-
-**Cloud & Infrastructure:**
-
-- ☁️ **Cloud Infrastructure** - AWS, GCP migration expertise
-- ⎈ **Kubernetes** - Container orchestration and management
-- � **Docker** - Containerization and deployment
-
-**DevOps & Monitoring:**
-
-- 📊 **Grafana** - System monitoring and visualization
-- 🔍 **Prometheus** - Metrics collection and alerting
-- 🔄 **GitLab CI/CD** - Continuous integration and deployment
-
-**Frontend & Mobile:**
-
-- ⚛️ React / Next.js
-- 🌟 Swift / Kotlin / Flutter
-- � TypeScript
-- 🎨 Tailwind CSS
-
-**Databases & Storage:**
-- 🐘 PostgreSQL
-
-## 💻 Current Focus
+### 💻 Current Focus
 
 <div align="center">
   
