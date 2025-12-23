@@ -22,6 +22,8 @@ Experienced in managing development infrastructure with **Docker**, configuring 
 
 Strong communicator with the ability to work across cross-functional teams, focused on problem-solving, efficiency, and delivering precise and measurable results. Bringing a balanced combination of technical expertise and project management capability.
 
+  ---
+
 ### 💻 Current Focus
 
 <div align="center">
