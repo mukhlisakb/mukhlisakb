@@ -1,63 +1,76 @@
-# 👋 Hello, I'm Mukhlis Akbar
+# Mukhlis Akbar
 
-<div align="center">
-  <h2>⚡ Software Engineer </h2>
-  <p>Infrastructure System Engineer | Mobile & Backend Specialist </p>
-  <p>📍 Indonesia </p>
-  
-  [![Website](https://img.shields.io/badge/Website-mukhlis.tech-blue?style=for-the-badge&logo=chrome&logoColor=white)](https://mukhlis.tech/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-mukhlisakb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukhlisakb/)
-  [![GitHub](https://img.shields.io/badge/GitHub-mukhlisakb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukhlisakb)
-  [![Email](https://img.shields.io/badge/Email-mukhlisakb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukhlisakb@gmail.com)
-
-  </div>
-  
-  ---
-## 🚀 About Me
-**Software Engineer & GIS Developer** with over six years of experience in spatial data management, mapping, and developing WebGIS solutions for government and mining sector projects. Currently working as a Software Engineer, handling end-to-end project delivery—from planning and technical coordination to implementation and deployment.
-
-Skilled in Software Development and modern application development using **Golang, Rust, Python, Kotlin, and JavaScript/TypeScript**, with hands-on experience building systems with **FastAPI, ReactJS, and GIS-based web applications**. Adept at creating map-based applications, data management systems, and analytical dashboards.
-
-Experienced in managing development infrastructure with **Docker**, configuring databases such as **PostgreSQL/PostGIS**, and automating workflows. Also active in mobile development, particularly Android, utilizing Clean Architecture.
-
-Strong communicator with the ability to work across cross-functional teams, focused on problem-solving, efficiency, and delivering precise and measurable results. Bringing a balanced combination of technical expertise and project management capability.
-
-  ---
-
-### 💻 Current Focus
-
-<div align="center">
-  
-**Building modern web applications | System, GIS Dev & Backend Engineering**
-
-🚀 Always learning • 🔗 Creating useful tools • 🌟 Sharing knowledge
-🏗️ System Architecture • ☁️ Cloud Infrastructure • ⎈ GIS Development • 🔧 Automation
-
-</div>
+> “Software is not about control.
+> It is about responsibility.”
 
 ---
 
-## 📬 Get In Touch
+```toml
+[package]
+name = "mukhlis_akbar"
+version = "6.0.0"
+edition = "2024"
+description = "engineer who builds systems for people, not abstractions"
 
-I'm always interested in new opportunities and collaborations. Feel free to reach out!
+[identity]
+username = "mukhlisakb"
+location = "Indonesia 🇮🇩"
+spoken = ["id", "en"]
 
-- 🌐 **Website**: [mukhlis.tech](https://mukhlis.tech)
-- 📧 **Email**: [mukhlisakb@gmail.com](mailto:mukhlisakb@gmail.com)
-- 💼 **LinkedIn**: [mukhlisakb/mukhlisakb](https://www.linkedin.com/in/mukhlisakb/)
+[practice]
+domains = [
+  "backend engineering",
+  "spatial systems (GIS)",
+  "infrastructure",
+  "developer experience"
+]
+
+[values]
+clarity = "over cleverness"
+stability = "over novelty"
+ownership = "over hype"
+
+[tools]
+rust = "when correctness matters"
+go = "when teams matter"
+kotlin = "when users matter"
+postgres = "when data remembers"
+docker = "when systems repeat"
+
+[features]
+low_profile = true
+long_term_thinking = true
+```
+---
+
+Notes
+
+I don’t chase trends.
+I chase understanding.
+
+I build systems that are expected to:
+- fail gracefully
+- explain themselves
+- be maintained by humans, not heroes
+
+My years in GIS taught me that context matters.
+A system without context is just noise.
 
 ---
- 
-<h3 align="left">My Statistics</h3>
 
-<div align="center">
- <img
-  height="180"
-  src="https://github-readme-stats-ainunns.vercel.app/api/top-langs?username=mukhlisakb&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook"
-  alt="mukhlisakb"
-/>
-  <img
-    height="180"
-    src="https://github-readme-streak-stats-ainunns.vercel.app/?user=mukhlisakb&theme=tokyonight"
-    alt="mukhlisakb"
-  />
-</div>
+Current State
+
+- building backend & spatial systems
+- balancing delivery and correctness
+- learning to remove more than I add
+
+---
+
+Elsewhere
+
+- https://mukhlis.tech
+- https://linkedin.com/in/mukhlisakb
+
+---
+
+“Good engineering is quiet care, repeated daily.”
