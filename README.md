@@ -60,7 +60,4 @@ I'm always interested in new opportunities and collaborations. Feel free to reac
     src="https://github-readme-streak-stats-ainunns.vercel.app/?user=mukhlisakb&theme=tokyonight"
     alt="mukhlisakb"
   />
-   <a height="150" src="https://raw.githubusercontent.com/mukhlisakb/github-readme-wakatime-image-saver/main/wakatime-stats.svg" /></a>
-
-    https://github-readme-stats.vercel.app/api/wakatime?username=mukhlisakb&layout=compact&theme=react&langs_count=6
 </div>
